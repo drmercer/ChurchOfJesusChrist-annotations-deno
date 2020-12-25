@@ -1,0 +1,6 @@
+# Sensitive files
+/.credentials.json
+*.har
+
+# Editor files
+.vscode/
